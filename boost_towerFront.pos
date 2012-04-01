@@ -1,0 +1,27 @@
+### Module positions - created on 12/23/2011 11:12:45 PM ###
+### Printed by PcbNew version pcbnew (2010-05-05 BZR 2356)-stable
+## Unit = inches, Angle = deg.
+## Side : Front
+# Ref    Val                  PosX       PosY        Rot     Side
+C1       1nF                  2.6600     5.7100       0.0    Front
+C1B1     1uF                  3.6500     5.7100     180.0    Front
+C2B1     1uF                  4.2400     5.1900       0.0    Front
+C3       0.33uF               3.5700     6.5500      90.0    Front
+C3B1     1uF                  4.2300     5.4000       0.0    Front
+C4B1     1uF                  4.0800     4.9700     180.0    Front
+C5       12pF                 4.9000     5.6300       0.0    Front
+C5B1     1uF                  4.4300     4.9700     180.0    Front
+C6       12pF                 4.9100     4.5000       0.0    Front
+C6B1     1uF                  3.1800     4.9700       0.0    Front
+C7B1     1uF                  3.5200     4.9700       0.0    Front
+C9B1     1uF                  3.6500     5.1900     180.0    Front
+C10B1    1uF                  3.8000     4.9700       0.0    Front
+C11B1    2.2uF                2.6400     5.1900     180.0    Front
+C12B1    10nF                 3.1800     5.1900       0.0    Front
+C13B1    33pF                 3.1800     5.4000       0.0    Front
+R1       47k                  2.6400     5.3900     180.0    Front
+R2       0R                   4.9100     5.4100     180.0    Front
+R3       0R                   4.9100     4.7200     180.0    Front
+X1       32.768kHz            4.9500     5.0700      90.0    Front
+X2       10MHz                5.4820     5.6220     180.0    Front
+## End

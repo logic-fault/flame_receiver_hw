@@ -1,0 +1,83 @@
+eeschema (2010-05-05 BZR 2356)-stable  >> Creation date: 10/23/2011 7:48:35 PM
+
+#Cmp ( order = Reference )
+| C1         1nF         ;             ; 478-1595-1-ND; Digikey     
+| C2         33uF        ;             ;             ;             
+| C3         0.33uF      ;             ; 445-4494-1-ND; Digikey     
+| C4         10uF        ;             ;             ;             
+| C5         12pF        ; 1206        ; Digikey     ; 478-1469-1-ND
+| C6         12pF        ; 1206        ; 478-1469-1-ND; Digikey     
+| C10B1      1uF         ;             ;             ;             
+| C11B1      2.2uF       ;             ;             ;             
+| C12B1      10nF        ;             ;             ;             
+| C13B1      33pF        ;             ;             ;             
+| C1B1       1uF         ;             ;             ;             
+| C2B1       1uF         ;             ;             ;             
+| C3B1       1uF         ;             ;             ;             
+| C4B1       1uF         ;             ;             ;             
+| C5B1       1uF         ;             ;             ;             
+| C6B1       1uF         ;             ;             ;             
+| C7B1       1uF         ;             ;             ;             
+| C9B1       1uF         ;             ;             ;             
+| J1         SMA         ; SMA         ;             ;             
+| P1         Debug       ;             ;             ;             
+| P2         PWR_IN      ;             ;             ;             
+| P4         CONN_3X2    ;             ;             ;             
+| PLED_BL1   DIL20       ;             ;             ;             
+| PLED_BR1   DIL20       ;             ;             ;             
+| PLED_UL1   DIL20       ;             ;             ;             
+| PLED_UR1   DIL20       ;             ;             ;             
+| R1         47k         ;             ;             ;             
+| R2         0R          ;             ;             ;             
+| R3         0R          ;             ;             ;             
+| U1         MSP430G2231 ;             ;             ;             
+| U2         LM3940      ;             ;             ;             
+| U3         LM7805      ;             ;             ;             
+| U4         74LV00      ;             ;             ;             
+| U5         LED55X46    ;             ;             ;             
+| U2B1       SI4320      ;             ;             ;             
+| X1         32.768kHz   ;             ;             ;             
+| X2         10MHz       ;             ;             ;             
+#End Cmp
+
+#Cmp ( order = Value )
+| 0.33uF       C3        ;             ; 445-4494-1-ND; Digikey     
+| 0R           R2        ;             ;             ;             
+| 0R           R3        ;             ;             ;             
+| 10MHz        X2        ;             ;             ;             
+| 10nF         C12B1     ;             ;             ;             
+| 10uF         C4        ;             ;             ;             
+| 12pF         C5        ; 1206        ; Digikey     ; 478-1469-1-ND
+| 12pF         C6        ; 1206        ; 478-1469-1-ND; Digikey     
+| 1nF          C1        ;             ; 478-1595-1-ND; Digikey     
+| 1uF          C10B1     ;             ;             ;             
+| 1uF          C1B1      ;             ;             ;             
+| 1uF          C2B1      ;             ;             ;             
+| 1uF          C3B1      ;             ;             ;             
+| 1uF          C4B1      ;             ;             ;             
+| 1uF          C5B1      ;             ;             ;             
+| 1uF          C6B1      ;             ;             ;             
+| 1uF          C7B1      ;             ;             ;             
+| 1uF          C9B1      ;             ;             ;             
+| 2.2uF        C11B1     ;             ;             ;             
+| 32.768kHz    X1        ;             ;             ;             
+| 33pF         C13B1     ;             ;             ;             
+| 33uF         C2        ;             ;             ;             
+| 47k          R1        ;             ;             ;             
+| 74LV00       U4        ;             ;             ;             
+| CONN_3X2     P4        ;             ;             ;             
+| Debug        P1        ;             ;             ;             
+| DIL20        PLED_BL1  ;             ;             ;             
+| DIL20        PLED_BR1  ;             ;             ;             
+| DIL20        PLED_UL1  ;             ;             ;             
+| DIL20        PLED_UR1  ;             ;             ;             
+| LED55X46     U5        ;             ;             ;             
+| LM3940       U2        ;             ;             ;             
+| LM7805       U3        ;             ;             ;             
+| MSP430G2231  U1        ;             ;             ;             
+| PWR_IN       P2        ;             ;             ;             
+| SI4320       U2B1      ;             ;             ;             
+| SMA          J1        ; SMA         ;             ;             
+#End Cmp
+
+#End List

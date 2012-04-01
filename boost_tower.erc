@@ -1,0 +1,171 @@
+ERC report (9/14/2011 6:24:54 PM)
+
+***** Sheet / (Root) 
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (6.7000 ",3.0500 "): Cmp R2, Pin 1 (passive) Unconnected
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (2.5500 ",4.0000 "): Cmp U4, Pin 1 (input) not driven (Net 34)
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (7.3000 ",3.0500 "): Cmp R3, Pin 2 (passive) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (3.9500 ",1.3000 "): Cmp C2, Pin 1 (passive) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (10.0500 ",3.6500 "): Cmp P1, Pin 1 (passive) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (3.7500 ",1.0500 "): Cmp U2, Pin ~ (power_out) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (3.4000 ",1.2000 "): Cmp U2, Pin 2 (power_in) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (3.1000 ",1.0500 "): Cmp U2, Pin 1 (power_in) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (5.7500 ",3.1500 "): Cmp U1, Pin 14 (power_in) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (5.7500 ",3.3000 "): Cmp U1, Pin 13 (BiDi) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (5.7500 ",3.4500 "): Cmp U1, Pin 12 (BiDi) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (5.7500 ",3.6000 "): Cmp U1, Pin 11 (BiDi) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (5.7500 ",3.7500 "): Cmp U1, Pin 10 (BiDi) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (5.7500 ",3.9000 "): Cmp U1, Pin 9 (BiDi) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (5.7500 ",4.0500 "): Cmp U1, Pin 8 (BiDi) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (4.6500 ",4.0500 "): Cmp U1, Pin 7 (BiDi) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (4.6500 ",3.9000 "): Cmp U1, Pin 6 (BiDi) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (4.6500 ",3.7500 "): Cmp U1, Pin 5 (BiDi) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (4.6500 ",3.6000 "): Cmp U1, Pin 4 (BiDi) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (4.6500 ",3.4500 "): Cmp U1, Pin 3 (BiDi) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (4.6500 ",3.3000 "): Cmp U1, Pin 2 (BiDi) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (4.6500 ",3.1500 "): Cmp U1, Pin 1 (power_in) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (1.3500 ",3.9000 "): Cmp U4, Pin 3 (output) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (1.6500 ",6.4500 "): Cmp P4, Pin 1 (passive) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (1.6500 ",6.5500 "): Cmp P4, Pin 3 (passive) Unconnected
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (3.4000 ",1.7500 "): Cmp #PWR015, Pin 1 (power_in) not driven (Net 1)
+
+***** Sheet /boost_radio/
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (9.9500 ",1.7000 "): Cmp C4B1, Pin 1 (passive) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (9.3500 ",1.7000 "): Cmp C2B1, Pin 1 (passive) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (8.6500 ",1.7000 "): Cmp C9B1, Pin 1 (passive) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (8.6500 ",2.4500 "): Cmp C10B1, Pin 2 (passive) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (8.0500 ",1.7000 "): Cmp C6B1, Pin 1 (passive) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (9.0500 ",1.7000 "): Cmp C1B1, Pin 1 (passive) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (8.6500 ",2.0500 "): Cmp C10B1, Pin 1 (passive) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (4.5000 ",3.0500 "): Cmp P3, Pin 2 (passive) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (4.5000 ",2.8500 "): Cmp P3, Pin 1 (passive) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (4.2000 ",3.4500 "): Cmp X2, Pin 2 (passive) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (7.4000 ",3.1500 "): Cmp U1B1, Pin 39 (input) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (8.4000 ",3.1500 "): Cmp U1B1, Pin 29 (input) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (9.1000 ",3.5500 "): Cmp U1B1, Pin 19 (input) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (7.5000 ",3.1500 "): Cmp U1B1, Pin 38 (input) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (8.5000 ",3.1500 "): Cmp U1B1, Pin 28 (input) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (9.0000 ",3.5500 "): Cmp U1B1, Pin 18 (input) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (7.6000 ",3.1500 "): Cmp U1B1, Pin 37 (input) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (8.6000 ",3.1500 "): Cmp U1B1, Pin 27 (input) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (7.7000 ",3.1500 "): Cmp U1B1, Pin 36 (input) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (3.5000 ",2.4000 "): Cmp U2B1, Pin 16 (input) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (3.5000 ",2.5500 "): Cmp U2B1, Pin 15 (input) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (3.5000 ",2.7000 "): Cmp U2B1, Pin 14 (power_in) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (3.5000 ",2.8500 "): Cmp U2B1, Pin 13 (BiDi) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (3.5000 ",3.0000 "): Cmp U2B1, Pin 12 (BiDi) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (3.5000 ",3.1500 "): Cmp U2B1, Pin 11 (power_in) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (3.5000 ",3.3000 "): Cmp U2B1, Pin 10 (input) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (3.5000 ",3.4500 "): Cmp U2B1, Pin 9 (input) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (2.8000 ",3.4500 "): Cmp U2B1, Pin 8 (output) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (2.8000 ",3.3000 "): Cmp U2B1, Pin 7 (input) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (2.8000 ",3.1500 "): Cmp U2B1, Pin 6 (BiDi) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (2.8000 ",3.0000 "): Cmp U2B1, Pin 5 (input) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (2.8000 ",2.8500 "): Cmp U2B1, Pin 4 (output) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (2.8000 ",2.7000 "): Cmp U2B1, Pin 3 (input) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (2.8000 ",2.5500 "): Cmp U2B1, Pin 2 (input) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (2.8000 ",2.4000 "): Cmp U2B1, Pin 1 (input) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (9.6500 ",1.7000 "): Cmp C3B1, Pin 1 (passive) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (8.3000 ",1.7000 "): Cmp C7B1, Pin 1 (passive) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (8.7000 ",3.1500 "): Cmp U1B1, Pin 26 (input) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (7.8000 ",3.1500 "): Cmp U1B1, Pin 35 (input) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (8.8000 ",3.1500 "): Cmp U1B1, Pin 25 (input) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (7.9000 ",3.1500 "): Cmp U1B1, Pin 34 (input) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (8.9000 ",3.1500 "): Cmp U1B1, Pin 24 (input) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (8.0000 ",3.1500 "): Cmp U1B1, Pin 33 (input) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (9.0000 ",3.1500 "): Cmp U1B1, Pin 23 (input) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (8.1000 ",3.1500 "): Cmp U1B1, Pin 32 (input) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (9.1000 ",3.1500 "): Cmp U1B1, Pin 22 (input) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (8.2000 ",3.1500 "): Cmp U1B1, Pin 31 (input) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (9.2000 ",3.1500 "): Cmp U1B1, Pin 21 (input) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (7.3000 ",3.1500 "): Cmp U1B1, Pin 40 (input) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (8.3000 ",3.1500 "): Cmp U1B1, Pin 30 (input) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (10.2500 ",1.7000 "): Cmp C5B1, Pin 1 (passive) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (7.3000 ",3.5500 "): Cmp U1B1, Pin 1 (input) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (7.4000 ",3.5500 "): Cmp U1B1, Pin 2 (input) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (7.5000 ",3.5500 "): Cmp U1B1, Pin 3 (input) Unconnected
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (9.2000 ",3.5500 "): Cmp U1B1, Pin 20 (input) Unconnected
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (7.8500 ",1.3000 "): Cmp #PWR024, Pin 1 (power_in) not driven (Net 31)
+
+ >> Errors ERC: 82

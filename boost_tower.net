@@ -1,0 +1,394 @@
+# EESchema Netlist Version 1.1 created  12/23/2011 5:09:46 PM
+(
+ ( /4E62CD06 SM1206 C1 1nF
+  ( 1 N-000013 )
+  ( 2 GND )
+ )
+ ( /4E63F8AA/4E6BC50C SM1206 C1B1 1uF
+  ( 1 N-000101 )
+  ( 2 GND )
+ )
+ ( /4E62D330 5mmRadial2_5Lead C2 33uF
+  ( 1 N-000005 )
+  ( 2 GND )
+ )
+ ( /4E63F8AA/4E6BC4FC SM1206 C2B1 1uF
+  ( 1 N-000094 )
+  ( 2 GND )
+ )
+ ( /4E62D6B2 SM1206 C3 0.33uF
+  ( 1 +5V )
+  ( 2 GND )
+ )
+ ( /4E63F8AA/4E6BC4F2 SM1206 C3B1 1uF
+  ( 1 N-000100 )
+  ( 2 GND )
+ )
+ ( /4E62D68D 5mmRadial2_5Lead C4 10uF
+  ( 1 N-000006 )
+  ( 2 GND )
+ )
+ ( /4E63F8AA/4E6BC4EC SM1206 C4B1 1uF
+  ( 1 N-000095 )
+  ( 2 GND )
+ )
+ ( /4E714D96 SM1206 C5 12pF
+  ( 1 N-000009 )
+  ( 2 GND )
+ )
+ ( /4E63F8AA/4E6BC4D4 SM1206 C5B1 1uF
+  ( 1 N-000099 )
+  ( 2 GND )
+ )
+ ( /4E714DA1 SM1206 C6 12pF
+  ( 1 GND )
+  ( 2 N-000008 )
+ )
+ ( /4E63F8AA/4E6BC939 SM1206 C6B1 1uF
+  ( 1 N-000083 )
+  ( 2 GND )
+ )
+ ( /4E63F8AA/4E6BCB74 SM1206 C7B1 1uF
+  ( 1 N-000103 )
+  ( 2 N-000092 )
+ )
+ ( /4E63F8AA/4E6BCB86 SM1206 C9B1 1uF
+  ( 1 N-000096 )
+  ( 2 N-000092 )
+ )
+ ( /4E63F8AA/4E6BCAED SM1206 C10B1 1uF
+  ( 1 N-000093 )
+  ( 2 N-000102 )
+ )
+ ( /4E63F8AA/4E640CDD SM1206 C11B1 2.2uF
+  ( 1 VCC )
+  ( 2 GND )
+ )
+ ( /4E63F8AA/4E640CE7 SM1206 C12B1 10nF
+  ( 1 VCC )
+  ( 2 GND )
+ )
+ ( /4E63F8AA/4E640CEC SM1206 C13B1 33pF
+  ( 1 VCC )
+  ( 2 GND )
+ )
+ ( /4E63F8AA/4E72B89B SMA J1 SMA
+  ( 1 N-000091 )
+  ( 2 N-000097 )
+  ( 3 N-000097 )
+  ( 4 N-000097 )
+  ( 5 N-000097 )
+ )
+ ( /4E62CDF5 PIN_ARRAY_2X2 P1 Debug
+  ( 1 N-000007 )
+  ( 2 VCC )
+  ( 3 N-000013 )
+  ( 4 GND )
+ )
+ ( /4E62D92E PIN_ARRAY_2X1 P2 PWR_IN
+  ( 1 GND )
+  ( 2 N-000006 )
+ )
+ ( /4E6C304A pin_array_3x2 P4 CONN_3X2
+  ( 1 N-000003 )
+  ( 2 N-000006 )
+  ( 3 N-000004 )
+  ( 4 +5V )
+  ( 5 ? )
+  ( 6 GND )
+ )
+ ( /4E63F8AA/4E759496 DIP-20__300 PLED_BL1 DIL20
+  ( 1 ? )
+  ( 2 ? )
+  ( 3 ? )
+  ( 4 ? )
+  ( 5 ? )
+  ( 6 ? )
+  ( 7 ? )
+  ( 8 ? )
+  ( 9 ? )
+  ( 10 ? )
+  ( 11 ? )
+  ( 12 ? )
+  ( 13 ? )
+  ( 14 ? )
+  ( 15 ? )
+  ( 16 ? )
+  ( 17 ? )
+  ( 18 ? )
+  ( 19 ? )
+  ( 20 ? )
+ )
+ ( /4E63F8AA/4E7594AC DIP-20__300 PLED_BR1 DIL20
+  ( 1 ? )
+  ( 2 ? )
+  ( 3 ? )
+  ( 4 ? )
+  ( 5 ? )
+  ( 6 ? )
+  ( 7 ? )
+  ( 8 ? )
+  ( 9 ? )
+  ( 10 ? )
+  ( 11 ? )
+  ( 12 ? )
+  ( 13 ? )
+  ( 14 ? )
+  ( 15 ? )
+  ( 16 ? )
+  ( 17 ? )
+  ( 18 ? )
+  ( 19 ? )
+  ( 20 ? )
+ )
+ ( /4E63F8AA/4E759486 DIP-20__300 PLED_UL1 DIL20
+  ( 1 ? )
+  ( 2 ? )
+  ( 3 ? )
+  ( 4 ? )
+  ( 5 ? )
+  ( 6 ? )
+  ( 7 ? )
+  ( 8 ? )
+  ( 9 ? )
+  ( 10 ? )
+  ( 11 N-000103 )
+  ( 12 N-000083 )
+  ( 13 GND )
+  ( 14 VCC )
+  ( 15 VCC )
+  ( 16 N-000015 )
+  ( 17 N-000021 )
+  ( 18 N-000019 )
+  ( 19 N-000018 )
+  ( 20 N-000001 )
+ )
+ ( /4E63F8AA/4E759470 DIP-20__300 PLED_UR1 DIL20
+  ( 1 N-000099 )
+  ( 2 N-000095 )
+  ( 3 N-000100 )
+  ( 4 N-000094 )
+  ( 5 N-000101 )
+  ( 6 GND )
+  ( 7 N-000102 )
+  ( 8 N-000093 )
+  ( 9 N-000096 )
+  ( 10 N-000092 )
+  ( 11 ? )
+  ( 12 ? )
+  ( 13 ? )
+  ( 14 ? )
+  ( 15 ? )
+  ( 16 ? )
+  ( 17 ? )
+  ( 18 ? )
+  ( 19 ? )
+  ( 20 ? )
+ )
+ ( /4E62CD65 SM1206 R1 47k
+  ( 1 VCC )
+  ( 2 N-000013 )
+ )
+ ( /4E6C346A SM1206 R2 0R
+  ( 1 N-000011 )
+  ( 2 N-000009 )
+ )
+ ( /4E6C3474 SM1206 R3 0R
+  ( 1 N-000008 )
+  ( 2 N-000012 )
+ )
+ ( /4E62CADF DIP-14__300 U1 MSP430G2231
+  ( 1 VCC )
+  ( 2 N-000018 )
+  ( 3 N-000003 )
+  ( 4 N-000004 )
+  ( 5 N-000019 )
+  ( 6 N-000020 )
+  ( 7 N-000021 )
+  ( 8 N-000015 )
+  ( 9 N-000014 )
+  ( 10 N-000013 )
+  ( 11 N-000007 )
+  ( 12 N-000012 )
+  ( 13 N-000011 )
+  ( 14 GND )
+ )
+ ( /4E62D261 LM78XX U2 LM3940
+  ( 1 +5V )
+  ( 2 GND )
+  ( ~ N-000005 )
+ )
+ ( /4E63F8AA/4E63F8D1 TSSOP-16 U2B1 SI4320
+  ( 1 N-000015 )
+  ( 2 N-000021 )
+  ( 3 N-000020 )
+  ( 4 N-000014 )
+  ( 5 ? )
+  ( 6 VCC )
+  ( 7 ? )
+  ( 8 ? )
+  ( 9 N-000089 )
+  ( 10 ? )
+  ( 11 GND )
+  ( 12 N-000097 )
+  ( 13 N-000091 )
+  ( 14 VCC )
+  ( 15 ? )
+  ( 16 ? )
+ )
+ ( /4E62D0E1 LM78XX U3 LM7805
+  ( GND GND )
+  ( VI N-000006 )
+  ( VO +5V )
+ )
+ ( /4E6C1DA7 DIP-14__300 U4 74LV00
+  ( 1 N-000020 )
+  ( 2 N-000020 )
+  ( 3 N-000001 )
+  ( 7 GND )
+  ( 14 VCC )
+ )
+ ( /4E63F8AA/4E759669 $noname$ U5 LED55X46
+  ( 1 ? )
+  ( 2 ? )
+  ( 3 ? )
+  ( 18 ? )
+  ( 19 ? )
+  ( 20 ? )
+  ( 21 N-000099 )
+  ( 22 N-000095 )
+  ( 23 N-000100 )
+  ( 24 N-000094 )
+  ( 25 N-000101 )
+  ( 26 GND )
+  ( 27 N-000102 )
+  ( 28 N-000093 )
+  ( 29 N-000096 )
+  ( 30 N-000092 )
+  ( 31 N-000103 )
+  ( 32 N-000083 )
+  ( 33 GND )
+  ( 34 VCC )
+  ( 35 VCC )
+  ( 36 N-000015 )
+  ( 37 N-000021 )
+  ( 38 N-000019 )
+  ( 39 N-000018 )
+  ( 40 N-000001 )
+ )
+ ( /4E714E27 polyswitch_smd-SMD2 X1 32.768kHz
+  ( 1 N-000009 )
+  ( 2 N-000008 )
+ )
+ ( /4E63F8AA/4E640BF0 polyswitch_smd-SMD2 X2 10MHz
+  ( 1 GND )
+  ( 2 N-000089 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C1
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1B1
+ CP*
+ SM*
+$endlist
+$component C2
+ CP*
+ SM*
+$endlist
+$component C2B1
+ CP*
+ SM*
+$endlist
+$component C3
+ SM*
+ C?
+ C1-1
+$endlist
+$component C3B1
+ CP*
+ SM*
+$endlist
+$component C4
+ CP*
+ SM*
+$endlist
+$component C4B1
+ CP*
+ SM*
+$endlist
+$component C5
+ SM*
+ C?
+ C1-1
+$endlist
+$component C5B1
+ CP*
+ SM*
+$endlist
+$component C6
+ SM*
+ C?
+ C1-1
+$endlist
+$component C6B1
+ CP*
+ SM*
+$endlist
+$component C7B1
+ CP*
+ SM*
+$endlist
+$component C9B1
+ CP*
+ SM*
+$endlist
+$component C10B1
+ CP*
+ SM*
+$endlist
+$component C11B1
+ CP*
+ SM*
+$endlist
+$component C12B1
+ SM*
+ C?
+ C1-1
+$endlist
+$component C13B1
+ SM*
+ C?
+ C1-1
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component U4
+ 14DIP300*
+ SO14*
+$endlist
+$endfootprintlist
+}
